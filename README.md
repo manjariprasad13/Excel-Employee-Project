@@ -40,6 +40,9 @@ This project focuses on analyzing employee data using Microsoft Excel. It involv
 
 ![Cleaning](cleaning_formatting.png)
 
+### Logical Functions & Statistical Formulae
+![Functions](logical_funcs_stats_formulae.png)
+
 ### Lookup
 
 ![Lookup](xlookup_vlookup.png)
